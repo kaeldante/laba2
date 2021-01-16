@@ -1,0 +1,6 @@
+D:\cproject\laba2\laba2\bin\Debug\laba2.exe.config
+D:\cproject\laba2\laba2\bin\Debug\laba2.exe
+D:\cproject\laba2\laba2\bin\Debug\laba2.pdb
+D:\cproject\laba2\laba2\obj\Debug\laba2.csprojResolveAssemblyReference.cache
+D:\cproject\laba2\laba2\obj\Debug\laba2.exe
+D:\cproject\laba2\laba2\obj\Debug\laba2.pdb
